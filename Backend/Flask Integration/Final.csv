@@ -1,0 +1,2 @@
+,cust_number,clear_date,buisness_year,doc_id,converted_usd,business_code_enc,day_of_postingdate,month_of_postingdate,year_of_postingdate,day_of_due,month_of_due,year_of_due,day_of_createdate,month_of_createdate,year_of_createdate,cust_payment_terms_enc,name_customer_enc,business_code,name_customer,posting_date,due_in_date,baseline_create_date,cust_payment_terms,avg_delay,Aging Bucket
+0,200769623,2019-11-21 15:41:49.375,2019,1930147974,33133.29,0,13,11,2019,28,11,2019,13,11,2019,1,0,U001,PIO associates,2019-11-13,2019-11-28,2019-11-13,NAH4,-7.0,

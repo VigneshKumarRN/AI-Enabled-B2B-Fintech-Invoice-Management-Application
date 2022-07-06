@@ -1,0 +1,69 @@
+.grid{
+  background-color: #172f3f;
+  border: none;
+  color:white;
+}
+
+.highradius-logo{
+  text-align: center;
+  height: 25;
+}
+
+body{
+  background-color: #172f3f;
+}
+
+
+.box-container {
+  width:100%;
+  text-align:center;
+}
+
+.left {
+  float:left;
+  padding-left:5px;
+}
+
+.center {
+  display: inline-block;
+}
+
+.right {
+  float:right;
+  padding-right:5px;
+}
+
+.highradius-logo{
+  position: relative;
+  left: 25%;
+}
+
+.dashboard{
+  background-color: #172f3f;
+}
+
+a:visited{
+  text-decoration: none;
+  color:#61dafb;
+}
+
+.footer{
+  color:white;
+}
+
+.footer-link{
+  color: #0D6EFD;
+}
+
+.search-box{
+  border-radius: 10px;
+  border: 2px solid;
+  width: 45ch;
+}
+
+.Button{
+  border-radius: 10px;
+  border: 2px solid;
+  width: 10ch;
+  color:black;
+}
